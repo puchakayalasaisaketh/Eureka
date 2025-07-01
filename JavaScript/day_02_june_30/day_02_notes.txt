@@ -1,0 +1,17 @@
+download node
+check by node -v
+download github,git
+get a connection from local to github
+https://github.com/puchakayalasaisaketh/Eureka/tree/main/JavaScript
+
+
+Web Development
+--developing a website
+1. FrontEnd : UI
+HTML: content(paragraph,audio,video,photo,list,div,)
+CSS:
+BootStrap:
+JavaScript:
+Angular/react/vue:
+
+2.BackEnd: Develop Rest API's
