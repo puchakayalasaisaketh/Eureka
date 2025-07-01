@@ -1,0 +1,19 @@
+download node
+check by node -v
+download github,git
+get a connection from local to github
+https://github.com/puchakayalasaisaketh/Eureka/tree/main/JavaScript
+
+
+Web Development
+--developing a website
+1. FrontEnd : UI
+HTML: content(paragraph,audio,video,photo,list,div,)
+CSS: Styling (border,backgrounf,margin,padding,width,height)
+BootStrap: css library (pre defined)
+JavaScript: Behaviour(click,hover,submit a form )
+Angular/react/vue: javascript framework(RAD,CLI,Template system)
+
+2.BackEnd: Develop Rest API's(Java,.net,python,go,php,nodejs)
+3.Database: Holds the data (oracle/mysql,mongodb)
+
